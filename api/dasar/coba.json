@@ -1,0 +1,28 @@
+[
+  {
+    "nama": "Ardiansyah",
+    "umur": 27,
+    "nim": "8040130206",
+    "hobby": [
+      "coding",
+      "membaca"
+    ],
+    "pembimbing": {
+      "pembimbing1": "Greget",
+      "pembimbing2": "Sartono"
+    }
+  },
+  {
+    "nama": "Ardiansyah",
+    "umur": 27,
+    "nim": "8040130206",
+    "hobby": [
+      "coding",
+      "membaca"
+    ],
+    "pembimbing": {
+      "pembimbing1": "Greget",
+      "pembimbing2": "Sartono"
+    }
+  }
+]
